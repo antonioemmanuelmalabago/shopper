@@ -35,6 +35,6 @@ Antonio Malabago
 - Website: [https://antoniomalabago.com](https://antoniomalabago.com)  
 - LinkedIn: [https://linkedin.com/in/antonio-emmanuel-malabago](https://www.linkedin.com/in/antonio-emmanuel-malabago/)
 
-## Acknowledgments
+## Acknowledgement
 
 - [Youtube - GreatStack for Full Stack E-Commerce Website Tutorial](https://youtu.be/y99YgaQjgx4?si=vY-HfmPaejdIBYOm)
